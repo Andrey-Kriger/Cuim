@@ -1,0 +1,96 @@
+__Lrdata 30 FFFFFFD3 DATA
+__Hrbss 30 0 DATA
+__Lrbss 20 0 DATA
+strx_xcopy 10C 0 CODE
+__Birdata 3 FFFFFFD3 DATA
+__Hirdata 30 FFFFFFD3 DATA
+__Lirdata 30 FFFFFFD3 DATA
+powerup F7 0 CODE
+__Htext 30 0
+__Ltext 30 0
+strx_copy 122 0 CODE
+__Hcode 30 0
+__Lcode 30 0
+__Hdata 10C 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 30 0 XDATA
+__Hbss 30 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 30 0 XDATA
+__Lstrings 100 0 CODE
+str_xcopy 10C 0 CODE
+__S0 14D 0
+start1 E3 0 CODE
+__Hnvram 30 0 XDATA
+small_model 1 0
+__Lnvram 30 0 XDATA
+__Hheap 30 0 XDATA
+__Lheap 30 0 XDATA
+_main 3 0 CODE
+str_copy 122 0 CODE
+?a_main 20 0 DATA
+_exit F4 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+strx_load 122 0 CODE
+__Brbit 20 20 BITSEG
+str_load 122 0 CODE
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 30 0 DATA
+__Hidata 30 0 DATA
+__Lidata 30 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFD3 DATA
+__Hrdata 30 FFFFFFD3 DATA
+%segments
+vectors 0 F9 CODE
+rbit 0 F BITSEG
+data 100 14C CODE
+%locals
+Z:\main_0.obj
+C:\Users\A4F7~1\DOCUME~1\NATION~1\CIRCUI~1.0\MCUWOR~1\3PRAKT~1\3PRAKT~1\main.c
+3 3 0 CODE
+5 6 0 CODE
+6 15 0 CODE
+7 24 0 CODE
+8 27 0 CODE
+9 2A 0 CODE
+10 2D 0 CODE
+11 30 0 CODE
+12 33 0 CODE
+13 36 0 CODE
+14 39 0 CODE
+15 3C 0 CODE
+16 3F 0 CODE
+17 42 0 CODE
+19 51 0 CODE
+20 5B 0 CODE
+21 5E 0 CODE
+17 61 0 CODE
+23 6D 0 CODE
+25 7C 0 CODE
+26 82 0 CODE
+27 85 0 CODE
+28 88 0 CODE
+29 97 0 CODE
+30 A1 0 CODE
+31 A4 0 CODE
+28 A7 0 CODE
+34 B3 0 CODE
+35 B9 0 CODE
+36 BC 0 CODE
+37 BF 0 CODE
+38 C2 0 CODE
+39 C5 0 CODE
+23 C8 0 CODE
+41 D4 0 CODE
+42 D7 0 CODE
+43 DA 0 CODE
+44 DD 0 CODE
+45 DF 0 CODE
